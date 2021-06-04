@@ -1,0 +1,6 @@
+Caso,tipoViaje,destino,ruta,tren,fecIni,fecFin,cabinas,adultos,ninos
+CP1,One Way,Cusco,Puno > Cusco,Belmond Andean Explorer,23,,1,1,0
+CP2,One Way,Cusco,Arequipa > Puno > Cusco,Belmond Andean Explorer,31,,1,1,1
+CP3,One Way,Machu Picchu,Cusco > Machu Picchu,,23,,,2,0
+CP4,Round trip,Machu Picchu,Cusco > Machu Picchu,,23,28,,2,0
+

@@ -1,0 +1,4 @@
+tipoPasajero,nombre,apellido,fecNac,nacionalidad,tipoDoc,nroDoc,sexo,telefono,correo
+adulto1,Carlo,Perez,23,Peru,Identification Card,45874514,Male,959492026,mailtest@gmail.com
+adulto2,Sandra,Salazar,15,Peru,Identification Card,65845587,Female,959492026,mailtest@gmail.com
+nino,Alexis,Arias,16,Peru,Identification Card,99887765,Male,,
